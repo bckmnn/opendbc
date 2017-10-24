@@ -55,3 +55,6 @@ BO_ 530 XXX_RPM: 8 XXX
 BO_ 1544 xxx_pedal: 8 XXX
  SG_ xx_dontKnow2 : 39|16@0+ (0.4,0) [0|65535] "" XXX
  SG_ outside_temp : 7|16@0+ (0.4,-40) [0|65535] "" XXX
+
+BO_ 776 NEW_MSG_1: 8 XXX
+ SG_ xxx_pedal_maybe : 23|8@0+ (1,0) [0|255] "" XXX
